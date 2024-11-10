@@ -1,0 +1,61 @@
+id,created_date,username,fullname,gender,email,no_telephone,address,is_admin,created_by
+1,54:22.0,cindy41,Ida Safitri,F,asuryono@gmail.com,62-835-238-7994,"Jalan Jamika No. 09
+Bima, BA 10648",FALSE,1
+2,54:22.0,harsanto84,"R.M. Nardi Manullang, S.I.Kom",M,hsuwarno@yahoo.com,62-89-37-2036,"Jl. Rajawali Barat No. 83
+Kota Administrasi Jakarta Utara, GO 95803",FALSE,1
+3,54:22.0,marganakusmawati,"Puti Aisyah Rahimah, S.E.",M,ibrani32@hotmail.com,(0570) 120 2024,"Gang Pacuan Kuda No. 55
+Langsa, Maluku 63432",FALSE,1
+4,54:22.0,csaragih,"Safina Melani, M.Kom.",F,tarifarida@yahoo.com,(015) 163 2500,"Jl. Cikutra Barat No. 9
+Padang, Nusa Tenggara Timur 18363",FALSE,1
+5,54:22.0,panduhidayat,"Kayun Habibi, S.E.",M,fdongoran@yahoo.com,62-495-691-4402,"Jl. Raya Setiabudhi No. 183
+Manado, Jawa Tengah 33563",FALSE,1
+6,54:22.0,daliman26,Carla Winarno,F,eko51@yahoo.com,+62 (0301) 855-2285,"Jl. Cihampelas No. 746
+Sawahlunto, JI 93286",FALSE,1
+7,54:22.0,tarihoranjagaraga,Ayu Dabukke,M,damanikmarwata@yahoo.com,(0642) 592-9838,"Gg. Rumah Sakit No. 474
+Magelang, Maluku Utara 04287",FALSE,1
+8,54:22.0,auwais,"Dr. Intan Prakasa, S.Ked",F,lamar32@hotmail.com,0834821364,"Jl. Sukajadi No. 090
+Padangpanjang, Sulawesi Utara 60469",FALSE,1
+9,54:22.0,wastutinasab,Cawuk Waskita,F,ldongoran@yahoo.com,+62 (896) 109-0769,"Jalan Bangka Raya No. 2
+Manado, Banten 02893",FALSE,1
+10,54:22.0,cagakzulaika,"drg. Jaya Prasetyo, S.IP",M,karja21@yahoo.com,+62 (0245) 573 0442,"Jl. Kapten Muslihat No. 606
+Pematangsiantar, Kalimantan Barat 07838",FALSE,1
+11,54:22.0,hassanahbahuraksa,Bahuraksa Astuti,M,baktiadilailasari@hotmail.com,089 278 5365,"Gang Pelajar Pejuang No. 57
+Kediri, JA 73384",FALSE,1
+12,54:22.0,permatadartono,Tgk. Among Mansur,F,kaniajanuar@yahoo.com,(034) 393 4662,"Jl. Ciwastra No. 647
+Gorontalo, MA 13721",FALSE,1
+13,54:22.0,agustinalamar,Irma Kusmawati,F,warsita05@gmail.com,+62 (066) 551-9494,"Gang Rajiman No. 58
+Padangpanjang, Maluku 38734",FALSE,1
+14,54:22.0,wastutibaktianto,"R. Ozy Wacana, S.H.",M,saadat49@hotmail.com,+62 (02) 855 2199,"Jl. Tebet Barat Dalam No. 49
+Padangpanjang, Kalimantan Tengah 37699",FALSE,1
+15,54:22.0,surya89,Vanesa Saputra,M,krahimah@gmail.com,(0274) 694 6350,"Jalan Soekarno Hatta No. 94
+Kotamobagu, Lampung 59092",FALSE,1
+16,54:22.0,damu37,Vivi Siregar,F,rini80@gmail.com,62-142-966-8207,"Jl. Jamika No. 69
+Sabang, RI 52592",FALSE,1
+17,54:22.0,pnarpati,Rahmi Siregar,F,sardianto@hotmail.com,62-316-937-4493,"Jl. M.H Thamrin No. 89
+Makassar, Kepulauan Bangka Belitung 57902",FALSE,1
+18,54:22.0,jinawi95,"Yessi Nashiruddin, S.H.",F,fsirait@gmail.com,088 259 7038,"Gang Monginsidi No. 541
+Meulaboh, JT 85337",FALSE,1
+19,54:22.0,imam56,Tgk. Ridwan Nasyidah,M,hani09@yahoo.com,+62 (0666) 467 8797,"Jalan Indragiri No. 27
+Blitar, DI Yogyakarta 73128",FALSE,1
+20,54:22.0,taliathamrin,"Puti Ratna Habibi, M.Ak",F,quyainah@yahoo.com,(075) 667-3149,"Jl. Gedebage Selatan No. 204
+Tegal, Kalimantan Barat 21338",FALSE,1
+21,54:22.0,banawawinarno,Dagel Nasyiah,M,prakasanajib@yahoo.com,+62 (337) 189-9315,"Jl. Cikapayang No. 2
+Prabumulih, BT 54932",FALSE,1
+22,54:22.0,lmayasari,"Dalima Nuraini, S.Sos",F,prasetyaganda@hotmail.com,+62 (63) 924 8404,"Jl. Gegerkalong Hilir No. 5
+Surabaya, Kalimantan Selatan 02557",FALSE,1
+23,54:22.0,budimanhendri,Ayu Hutasoit,M,lhassanah@yahoo.com,62-838-96-7359,"Jl. Monginsidi No. 1
+Bandung, Papua Barat 25434",FALSE,1
+24,54:22.0,clestari,"R. Carub Lazuardi, S.IP",M,wijayantigaman@gmail.com,62-2-627-2199,"Gg. Medokan Ayu No. 16
+Tarakan, JA 77592",FALSE,1
+25,54:22.0,gunawancakrabuana,"Gamblang Tarihoran, M.Pd",F,rahayu91@hotmail.com,62-52-553-4059,"Gg. Moch. Toha No. 1
+Probolinggo, KU 65155",FALSE,1
+26,54:22.0,ipradipta,"Hj. Tiara Nashiruddin, S.Psi",M,radityasitumorang@yahoo.com,0885432375,"Gg. Gardujati No. 745
+Tanjungbalai, KS 41073",FALSE,1
+27,54:22.0,teddy09,"dr. Samiah Pranowo, S.E.I",F,keziasaefullah@hotmail.com,(074) 435 8688,"Jalan Veteran No. 063
+Madiun, Bengkulu 28203",FALSE,1
+28,54:22.0,purwantohassanah,"Puti Lalita Uwais, S.E.",M,ysaputra@hotmail.com,+62 (852) 402-2676,"Jalan W.R. Supratman No. 691
+Tanjungpinang, JB 86256",FALSE,1
+29,54:22.0,pardi71,Gasti Sitorus,F,upradipta@yahoo.com,+62 (488) 736 3236,"Gang Ir. H. Djuanda No. 988
+Jayapura, KU 31440",FALSE,1
+30,54:22.0,hsihombing,R.M. Jarwa Uyainah,F,oadriansyah@hotmail.com,+62 (015) 572-5595,"Gg. Lembong No. 5
+Medan, DI Yogyakarta 82796",FALSE,1
